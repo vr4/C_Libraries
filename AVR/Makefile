@@ -1,7 +1,7 @@
 MCU = atmega32
-F_CPU = 8000000
+F_CPU = 1000000
 FORMAT = ihex
-TARGET = ATtiny45
+TARGET = ATmega32
 OBJDIR = obj
 BINDIR = bin
 SRC = $(TARGET).c

@@ -1,10 +1,12 @@
 /*
 	Author: Eric Conner
 	Project: ATtiny45
-	Date: 09-11-2013
+	Date: 05-31-2013
 	File: ATtiny45.c
 	Change Log:
-		1.1 - 09-12-2013 - Added main(void) with setup() and loop().
+		v1.1 - 07-09-2013 - Fixed Pin Numbers
+		v1.2 - 08-29-2013 - Added Shift-In and Shift-Out
+		v1.3 - 09-05-2013 - Added Delay
 */
 
 #include "ATtiny45.h"
